@@ -1,5 +1,5 @@
 #pip install cryptography
-
+#neni dokonceny nefunguje cryptography
 from cryptography.fernet import Fernet
 
 
